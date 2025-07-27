@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "VorTyAb",
+  "creator": "RTSBuilder-ProfBytes",
+  "filler_item_name": "One supply",
+  "death_link": false,
+  "starting_index": 1,
+  "starting_items": [
+    {
+      "item_categories": [
+        "Maps"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Very Easy"
+      ]
+    }
+  ]
+}

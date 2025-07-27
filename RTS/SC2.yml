@@ -1,0 +1,23 @@
+Factions:
+  Protoss:
+    Gateway: ["Zealot", "Sentry", "Stalker", "Adept", "High Templar", "Dark Templar"]
+    Stargate: ["Phoenix", "Oracle", "Void Ray", "Tempest", "Carrier", "Mothership"]
+    Robotics Facility: ["Observer", "Warp Prism", "Immortal", "Colossus", "Disruptor"]
+  Terran:
+    Barracks: ["Marine", "Reaper", "Marauder", "Ghost"]
+    Factory: ["Hellion", "Widow Mine", "Cyclone", "Seige Tank", "Hellbat", "Thor"]
+    Starport: ["Viking", "Medivac", "Liberator", "Raven", "Banshee", "Battlecruiser"]
+  Zerg:
+    Spawning Pool: ["Zergling", "Queen", "Baneling"]
+    Roach Warren: ["Roach", "Ravager"]
+    Hydralisk Den: ["Hydralisk", "Lurker"]
+    Infestation Pit: ["Infestor", "Swarm Host"]
+    Spire: ["Mutalisk", "Corruptor", "Viper", "Brood Lord"]
+    Ultralisk Cavern: ["Ultralisk"]
+Maps:
+  MaxTeams: 7
+  MaxPlayers: 14
+  MaxTeamSize: 7
+  MaxFFASize: 14
+Difficulties: ["Very Easy", "Easy", "Medium", "Hard", "Harder", "Very Hard", "Elite"]
+Game: "SC2"

@@ -1,0 +1,62 @@
+{
+  "user": {
+    "Vorazun_Starting_Unit": {
+      "type": "Choice",
+      "description": [
+        "Choose your starting unit for Vorazun"
+      ],
+      "values": {
+        "Vorazun - Zealot": 0,
+        "Vorazun - Stalker": 1,
+        "Vorazun - Dark Templar": 2,
+        "Vorazun - Dark Archon": 3,
+        "Vorazun - Corsair": 4,
+        "Vorazun - Oracle": 5,
+        "Vorazun - Void Ray": 6
+      },
+      "default": 0,
+      "allow_custom_value": false,
+      "group": "Starting Unit"
+    },
+    "Tychus_Starting_Unit": {
+      "type": "Choice",
+      "description": [
+        "Choose your starting unit for Tychus"
+      ],
+      "values": {
+        "Tychus - Tychus": 0,
+        "Tychus - Crooked Sam": 1,
+        "Tychus - Sirius": 2,
+        "Tychus - Blaze": 3,
+        "Tychus - Rattlesnake": 4,
+        "Tychus - Cannonball": 5,
+        "Tychus - Vega": 6,
+        "Tychus - Nux": 7,
+        "Tychus - Lt. Layna": 8
+      },
+      "default": 0,
+      "allow_custom_value": false,
+      "group": "Starting Unit"
+    },
+    "Abathur_Starting_Unit": {
+      "type": "Choice",
+      "description": [
+        "Choose your starting unit for Abathur"
+      ],
+      "values": {
+        "Abathur - Swarm Queen": 0,
+        "Abathur - Roach": 1,
+        "Abathur - Ravager": 2,
+        "Abathur - Swarm Host": 3,
+        "Abathur - Mutalisk": 4,
+        "Abathur - Devourer": 5,
+        "Abathur - Viper": 6,
+        "Abathur - Guardian": 7,
+        "Abathur - Ultralisk": 8
+      },
+      "default": 0,
+      "allow_custom_value": false,
+      "group": "Starting Unit"
+    }
+  }
+}

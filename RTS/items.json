@@ -1,0 +1,746 @@
+[
+  {
+    "count": 1,
+    "name": "Very Easy",
+    "category": [
+      "AI Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Easy",
+    "category": [
+      "AI Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Medium",
+    "category": [
+      "AI Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hard",
+    "category": [
+      "AI Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Harder",
+    "category": [
+      "AI Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Very Hard",
+    "category": [
+      "AI Difficulties"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2 Player FFA",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3 Player FFA",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4 Player FFA",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5 Player FFA",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6 Player FFA",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7 Player FFA",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8 Player FFA",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v2",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3v3",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4v4",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v2v2",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v2v2v2",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v3",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v4",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v5",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v6",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v7",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v3",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v4",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v5",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v6",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3v4",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3v5",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4v3",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5v3",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v2v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v3v3",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v3v3",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3v2v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4v2v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1v2v2v2",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2v1v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3v1v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4v1v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5v1v1v1",
+    "category": [
+      "Maps",
+      "UnbalancedMaps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vorazun",
+    "category": [
+      "Factions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vorazun - Zealot",
+    "category": [
+      "Vorazun Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vorazun - Stalker",
+    "category": [
+      "Vorazun Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vorazun - Dark Templar",
+    "category": [
+      "Vorazun Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vorazun - Dark Archon",
+    "category": [
+      "Vorazun Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vorazun - Corsair",
+    "category": [
+      "Vorazun Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vorazun - Oracle",
+    "category": [
+      "Vorazun Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vorazun - Void Ray",
+    "category": [
+      "Vorazun Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus",
+    "category": [
+      "Factions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Tychus",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Crooked Sam",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Sirius",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Blaze",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Rattlesnake",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Cannonball",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Vega",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Nux",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tychus - Lt. Layna",
+    "category": [
+      "Tychus Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur",
+    "category": [
+      "Factions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Swarm Queen",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Roach",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Ravager",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Swarm Host",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Mutalisk",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Devourer",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Viper",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Guardian",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Abathur - Ultralisk",
+    "category": [
+      "Abathur Units",
+      "Units"
+    ],
+    "progression": true
+  }
+]

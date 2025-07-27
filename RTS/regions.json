@@ -1,0 +1,17 @@
+{
+  "Win as Vorazun": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Vorazun|"
+  },
+  "Win as Tychus": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Tychus|"
+  },
+  "Win as Abathur": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Abathur|"
+  }
+}

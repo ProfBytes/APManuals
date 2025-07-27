@@ -1,0 +1,19 @@
+Factions:
+  Vorazun:
+    Gateway: ["Zealot", "Stalker", "Dark Templar", "Dark Archon"]
+    Stargate: ["Corsair", "Oracle", "Void Ray"]
+  Tychus:
+    JoeyRay: ["Tychus", "Crooked Sam", "Sirius", "Blaze", "Rattlesnake", "Cannonball", "Vega", "Nux", "Lt. Layna"]
+  Abathur:
+    Spawning Pool: ["Swarm Queen"]
+    Roach Warren: ["Roach", "Ravager"]
+    Infestation Pit: ["Swarm Host"]
+    Spire: ["Mutalisk", "Devourer", "Viper", "Guardian"]
+    Ultralisk Cavern: ["Ultralisk"]
+Maps:
+  MaxTeams: 4
+  MaxPlayers: 8
+  MaxTeamSize: 7
+  MaxFFASize: 8
+Difficulties: ["Very Easy", "Easy", "Medium", "Hard", "Harder", "Very Hard"]
+Game: "VorTyAb"

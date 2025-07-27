@@ -1,0 +1,2989 @@
+[
+  {
+    "name": "Destroy Vorazun worker",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "requires": "|Vorazun|"
+  },
+  {
+    "name": "Destroy Vorazun command structure",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "requires": "|Vorazun|"
+  },
+  {
+    "name": "Destroy Vorazun production structure",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "requires": "|Vorazun|"
+  },
+  {
+    "name": "Destroy Vorazun tech structure",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "requires": "|Vorazun|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |2 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |3 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |4 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |5 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |6 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |7 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |8 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 2v2 against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |2v2| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 3v3 against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |3v3| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 4v4 against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |4v4| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2 against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |2v2v2| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Very Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Easy",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Easy| AND |2v2v2v2| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |2 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |3 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |4 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |5 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |6 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |7 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |8 Player FFA| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 2v2 against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |2v2| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 3v3 against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |3v3| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 4v4 against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |4v4| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2 against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |2v2v2| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Easy as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Easy",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Easy| AND |2v2v2v2| AND |@Vorazun Units:1|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |2 Player FFA| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |3 Player FFA| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |4 Player FFA| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |5 Player FFA| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |6 Player FFA| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |7 Player FFA| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |8 Player FFA| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 2v2 against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |2v2| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 3v3 against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |3v3| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 4v4 against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |4v4| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 2v2v2 against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |2v2v2| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Medium as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Medium",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Medium| AND |2v2v2v2| AND |@Vorazun Units:2|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |2 Player FFA| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |3 Player FFA| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |4 Player FFA| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |5 Player FFA| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |6 Player FFA| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |7 Player FFA| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |8 Player FFA| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 2v2 against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |2v2| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 3v3 against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |3v3| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 4v4 against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |4v4| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 2v2v2 against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |2v2v2| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Hard",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Hard| AND |2v2v2v2| AND |@Vorazun Units:3|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |2 Player FFA| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |3 Player FFA| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |4 Player FFA| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |5 Player FFA| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |6 Player FFA| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |7 Player FFA| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |8 Player FFA| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 2v2 against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |2v2| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 3v3 against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |3v3| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 4v4 against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |4v4| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 2v2v2 against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |2v2v2| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Harder as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Harder",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Harder| AND |2v2v2v2| AND |@Vorazun Units:4|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |2 Player FFA| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |3 Player FFA| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |4 Player FFA| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |5 Player FFA| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |6 Player FFA| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |7 Player FFA| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |8 Player FFA| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 2v2 against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |2v2| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 3v3 against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |3v3| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 4v4 against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |4v4| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 2v2v2 against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |2v2v2| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Very Hard as Vorazun",
+    "region": "Win as Vorazun",
+    "category": [
+      "Destroy Vorazun"
+    ],
+    "categories": [
+      "Win as Vorazun",
+      "Beat Very Hard",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Vorazun| AND |Very Hard| AND |2v2v2v2| AND |@Vorazun Units:5|"
+  },
+  {
+    "name": "Destroy Tychus worker",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "requires": "|Tychus|"
+  },
+  {
+    "name": "Destroy Tychus command structure",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "requires": "|Tychus|"
+  },
+  {
+    "name": "Destroy Tychus production structure",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "requires": "|Tychus|"
+  },
+  {
+    "name": "Destroy Tychus tech structure",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "requires": "|Tychus|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |2 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |3 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |4 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |5 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |6 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |7 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |8 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 2v2 against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |2v2| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 3v3 against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |3v3| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 4v4 against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |4v4| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2 against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |2v2v2| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Very Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Easy",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Easy| AND |2v2v2v2| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |2 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |3 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |4 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |5 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |6 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |7 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |8 Player FFA| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 2v2 against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |2v2| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 3v3 against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |3v3| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 4v4 against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |4v4| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2 against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |2v2v2| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Easy as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Easy",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Easy| AND |2v2v2v2| AND |@Tychus Units:1|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |2 Player FFA| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |3 Player FFA| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |4 Player FFA| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |5 Player FFA| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |6 Player FFA| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |7 Player FFA| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |8 Player FFA| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 2v2 against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |2v2| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 3v3 against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |3v3| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 4v4 against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |4v4| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 2v2v2 against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |2v2v2| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Medium as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Medium",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Medium| AND |2v2v2v2| AND |@Tychus Units:3|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |2 Player FFA| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |3 Player FFA| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |4 Player FFA| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |5 Player FFA| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |6 Player FFA| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |7 Player FFA| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |8 Player FFA| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 2v2 against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |2v2| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 3v3 against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |3v3| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 4v4 against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |4v4| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 2v2v2 against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |2v2v2| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Hard",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Hard| AND |2v2v2v2| AND |@Tychus Units:4|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |2 Player FFA| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |3 Player FFA| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |4 Player FFA| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |5 Player FFA| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |6 Player FFA| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |7 Player FFA| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |8 Player FFA| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 2v2 against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |2v2| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 3v3 against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |3v3| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 4v4 against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |4v4| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 2v2v2 against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |2v2v2| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Harder as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Harder",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Harder| AND |2v2v2v2| AND |@Tychus Units:6|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |2 Player FFA| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |3 Player FFA| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |4 Player FFA| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |5 Player FFA| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |6 Player FFA| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |7 Player FFA| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |8 Player FFA| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 2v2 against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |2v2| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 3v3 against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |3v3| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 4v4 against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |4v4| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 2v2v2 against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |2v2v2| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Very Hard as Tychus",
+    "region": "Win as Tychus",
+    "category": [
+      "Destroy Tychus"
+    ],
+    "categories": [
+      "Win as Tychus",
+      "Beat Very Hard",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Tychus| AND |Very Hard| AND |2v2v2v2| AND |@Tychus Units:7|"
+  },
+  {
+    "name": "Destroy Abathur worker",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "requires": "|Abathur|"
+  },
+  {
+    "name": "Destroy Abathur command structure",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "requires": "|Abathur|"
+  },
+  {
+    "name": "Destroy Abathur production structure",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "requires": "|Abathur|"
+  },
+  {
+    "name": "Destroy Abathur tech structure",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "requires": "|Abathur|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |2 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |3 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |4 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |5 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |6 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |7 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |8 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 2v2 against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |2v2| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 3v3 against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |3v3| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 4v4 against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |4v4| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2 against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |2v2v2| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Very Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Easy",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Easy| AND |2v2v2v2| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |2 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |3 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |4 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |5 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |6 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |7 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |8 Player FFA| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 2v2 against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |2v2| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 3v3 against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |3v3| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 4v4 against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |4v4| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2 against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |2v2v2| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Easy as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Easy",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Easy| AND |2v2v2v2| AND |@Abathur Units:1|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |2 Player FFA| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |3 Player FFA| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |4 Player FFA| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |5 Player FFA| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |6 Player FFA| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |7 Player FFA| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |8 Player FFA| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 2v2 against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |2v2| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 3v3 against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |3v3| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 4v4 against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |4v4| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 2v2v2 against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |2v2v2| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Medium as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Medium",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Medium| AND |2v2v2v2| AND |@Abathur Units:3|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |2 Player FFA| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |3 Player FFA| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |4 Player FFA| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |5 Player FFA| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |6 Player FFA| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |7 Player FFA| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |8 Player FFA| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 2v2 against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |2v2| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 3v3 against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |3v3| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 4v4 against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |4v4| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 2v2v2 against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |2v2v2| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Hard",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Hard| AND |2v2v2v2| AND |@Abathur Units:4|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |2 Player FFA| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |3 Player FFA| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |4 Player FFA| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |5 Player FFA| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |6 Player FFA| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |7 Player FFA| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |8 Player FFA| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 2v2 against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |2v2| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 3v3 against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |3v3| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 4v4 against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |4v4| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 2v2v2 against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |2v2v2| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Harder as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Harder",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Harder| AND |2v2v2v2| AND |@Abathur Units:6|"
+  },
+  {
+    "name": "Beat 2 Player FFA against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 2 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |2 Player FFA| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 3 Player FFA against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 3 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |3 Player FFA| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 4 Player FFA against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 4 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |4 Player FFA| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 5 Player FFA against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 5 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |5 Player FFA| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 6 Player FFA against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 6 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |6 Player FFA| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 7 Player FFA against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 7 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |7 Player FFA| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 8 Player FFA against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 8 Player FFA match"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |8 Player FFA| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 2v2 against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |2v2| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 3v3 against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 3v3 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |3v3| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 4v4 against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 4v4 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |4v4| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 2v2v2 against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |2v2v2| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat 2v2v2v2 against Very Hard as Abathur",
+    "region": "Win as Abathur",
+    "category": [
+      "Destroy Abathur"
+    ],
+    "categories": [
+      "Win as Abathur",
+      "Beat Very Hard",
+      "Clear 2v2v2v2 match",
+      "Unbalanced Teams"
+    ],
+    "requires": "|Abathur| AND |Very Hard| AND |2v2v2v2| AND |@Abathur Units:7|"
+  },
+  {
+    "name": "Beat Hardest Maps",
+    "requires": "|@Factions:all| AND |@Units:all| AND |@Maps:all| AND |@AI Difficulties:all|",
+    "victory": true
+  }
+]
