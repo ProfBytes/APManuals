@@ -204,6 +204,12 @@ def generateGame(game, author, difficulty):
             "starting_items": [
                 {
                     "item_categories": [
+                        "Factions"
+                    ],
+                    "random": 1
+                },
+                {
+                    "item_categories": [
                         "Maps"
                     ],
                     "random": 1
