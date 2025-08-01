@@ -69,11 +69,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     for option, _ in world.options_dataclass.type_hints.items():
         if option.endswith("_Unit"):
             option_value = get_option_value(multiworld, player, option)
-            start_item_list = [option_value]
-            print(item_pool[0])
-            print(start_item_list)
-            print(option.split('_'))
-            item_list = [item for item in item_pool if item.name.lower().startswith(option.split('_')[0].lower())]
+            item_list = [item for item in item_pool if " - " in item.name and item.name.lower().startswith(option.split('_')[0].lower())]
             item = item_list[option_value]
             multiworld.push_precollected(item)
             item_pool.remove(item)
