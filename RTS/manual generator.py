@@ -106,7 +106,7 @@ def generateLocations(factions, difficultyList, teamsList):
                         "region": "Win as " + faction.name,
                         "category": ["Destroy "+faction.name],
                         "categories": ["Win as "+faction.name, "Beat "+difficulty, "Clear "+teams+" match"] + unbalanced,
-                        "requires": "|"+faction.name+"| AND |"+difficulty+"| AND |"+teams+"| AND |@"+faction.name+" Units:"+str(numRequired)+"|"
+                        "requires": "|"+faction.name+"| AND |Progressive Difficulty:"+str(difficultyList.index(difficulty)+1)+"| AND |"+teams+"| AND |@"+faction.name+" Units:"+str(numRequired)+"|"
                     })
         data.append({
             "name": "Beat Hardest Maps",
@@ -142,13 +142,12 @@ def generateOptions(factions, difficultyList, teamsList):
 def generateItems(factions, difficultyList, maps, unbalancedMaps):
     with open("items.json", 'w') as f:
         data = []
-        for difficulty in difficultyList:
-            data.append({
-                "count": 1,
-                "name": difficulty,
-                "category": ["AI Difficulties"],
-                "progression": True
-            })
+        data.append({
+            "count": len(difficultyList),
+            "name": "Progressive Difficulty",
+            "category": ["AI Difficulties"],
+            "progression": True
+        })
         for teams in maps:
             data.append({
                 "count": 1,
@@ -160,7 +159,7 @@ def generateItems(factions, difficultyList, maps, unbalancedMaps):
             data.append({
                 "count": 1,
                 "name": teams,
-                "category": ["Maps", "UnbalancedMaps"],
+                "category": ["Maps", "Unbalanced Teams"],
                 "progression": True
             })
         for faction in factions:
